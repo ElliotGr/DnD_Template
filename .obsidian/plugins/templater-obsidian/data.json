@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "一Resources一/Templates",
+  "templates_folder": "一Shared Resources一/Templates",
   "templates_pairs": [
     [
       "",
@@ -11,7 +11,7 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
-  "user_scripts_folder": "一Resources一/Scripts",
+  "user_scripts_folder": "一Shared Resources一/Scripts",
   "enable_folder_templates": false,
   "folder_templates": [
     {
