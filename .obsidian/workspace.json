@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "3a7aff1d565427d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1351c5872ba68ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2faaa1a66c9bfad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一Shared Resources一/Callouts.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b42a147c58ffefa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e34f933d1d50aeb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66f732f79f1a5dd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6eda0138ee9576b9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c25465e85e8b6a6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe464bf46e0f6e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b65cfb05e3be4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97e43c8f11f1f6b8",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "2faaa1a66c9bfad8",
+  "lastOpenFiles": [
+    "一Local Resources一/Attachments",
+    "一Local Resources一",
+    "一Resources一/ToDo.md",
+    "一Shared Resources一/Callouts.md",
+    "一Shared Resources一/Templates/Root.md",
+    "一Shared Resources一/Templates/Scene.md",
+    "一Shared Resources一/Templates/Session.md",
+    "一Shared Resources一/Templates/Test.md",
+    "-Campaigns-/Test Campaign/Session 1/Scene 2.md",
+    "-Campaigns-/Test Campaign/Session 1/Session 1.md",
+    "-Campaigns-/Test Campaign/Session 1/Scene 1.md",
+    "Eberron/Karrnath/Karrnath.md",
+    "Eberron/Karrnath/Karrn/Karrn.md",
+    "Eberron/Eberron.md",
+    "Eberron/Karrnath/Karrn",
+    "Eberron/Karrnath/-Characters-/King Korrin.md",
+    "Eberron/Karrnath/-Characters-",
+    "-AD-/2023/8/26/The Future.md",
+    "Eberron/Karrnath",
+    "-Factions-/Healers.md",
+    "-AD-/2023/8/26",
+    "-AD-/2023/8",
+    "-AD-/2023",
+    "-AD-",
+    "一Shared Resources一/Templates/Faction.md",
+    "-Factions-/Murderers.md",
+    "-Factions-",
+    "-Campaigns-/Test Campaign/Session 0/Session 0.md",
+    "-Campaigns-/Test Campaign/Session 1",
+    "-Campaigns-/Test Campaign/Test Campaign.md",
+    "-Players-/Freddo/-Characters-/Fred's Character/Fred's Character.md",
+    "-Players-/Freddo/Freddo.md",
+    "一Shared Resources一/Templates/Player.md",
+    "-Players-/-Characters-/Elliot's/Elliot's.md",
+    "一Shared Resources一/Templates/Player Character.md",
+    "一Shared Resources一/Templates/Character.md",
+    "Untitled.canvas"
+  ]
+}

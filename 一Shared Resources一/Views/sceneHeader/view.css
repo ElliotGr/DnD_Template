@@ -1,0 +1,17 @@
+.navigation-container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+}
+
+.navigation-element {
+    min-width: 6em;
+}
+
+.navigation-forward {
+    text-align: right;
+}
+
+.navigation-up {
+    text-align: center;
+}
