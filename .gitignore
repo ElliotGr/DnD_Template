@@ -1,6 +1,6 @@
 /*
 !.gitignore
-!一Shared Resources一/
+!一Resources一/
 !.obsidian/
 .obsidian/plugins/fantasy-calendar/data.json
 .obsidian/workspace.json
