@@ -15,4 +15,5 @@ location:: <%location.file.link%>
 
 `$= await dv.view('一Resources一/Views/characterHeader')`
 
-<%tp.file.cursor(0)%>
+> [!info]- What do they look like?
+> <%tp.file.cursor(0)%>
