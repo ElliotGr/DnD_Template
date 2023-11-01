@@ -1,10 +1,3 @@
----
-aliases:
-  - 
-tags:
-  - 
----
-
 > blockquote
 
 > [!note]

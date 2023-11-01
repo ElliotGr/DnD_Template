@@ -3,12 +3,12 @@
   "dataview",
   "table-editor-obsidian",
   "templater-obsidian",
-  "obsidian-style-settings",
   "folder-note-core",
   "alx-folder-note",
-  "obsidian-hider",
-  "obsidian-minimal-settings",
   "obsidian-frontmatter-tag-suggest",
   "tag-wrangler",
-  "fantasy-calendar"
+  "fantasy-calendar",
+  "obsidian-style-settings",
+  "obsidian-minimal-settings",
+  "obsidian-hider"
 ]

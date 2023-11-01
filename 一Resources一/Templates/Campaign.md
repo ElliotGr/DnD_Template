@@ -1,7 +1,5 @@
 <%await tp.file.move(`-Campaigns-/${tp.file.title}/${tp.file.title}`)-%>
 ---
-aliases:
-  - 
 tags:
   - campaign
 ---

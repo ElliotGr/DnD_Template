@@ -3,15 +3,10 @@ var location = await tp.system.suggester(l => l.file.name, tp.user.habitableLoca
 -%>
 <%await tp.file.move(`${location.file.folder}/-Characters-/${tp.file.title}`)-%>
 ---
-aliases:
-  - 
 tags:
   - character
+location: "<%location.file.link%>"
 ---
-
-%%
-location:: <%location.file.link%>
-%%
 
 `$= await dv.view('一Resources一/Views/characterHeader')`
 

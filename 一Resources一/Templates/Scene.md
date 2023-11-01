@@ -12,17 +12,11 @@ tags:
   - event/scene
 fc-calendar: <%tp.user.currentCalendar().name%>
 fc-category: <%campaign.file.name%>
-fc-date: 
-  year: <%tp.user.currentDate().year%>
-  month: <%tp.user.currentDate().month + 1%>
-  day: <%tp.user.currentDate().day%>
+fc-date: <%tp.user.formatDate(tp.user.currentDate())%>
 index: <%index%>
+location: "<%location.file.link%>"
+session: "<%session.file.link%>"
 ---
-
-%%
-session:: <%session.file.link%>
-location:: <%location.file.link%>
-%%
 
 `$= await dv.view('一Resources一/Views/sceneHeader')`
 

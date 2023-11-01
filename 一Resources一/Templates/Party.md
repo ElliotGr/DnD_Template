@@ -1,7 +1,5 @@
 <%await tp.file.move(`-Parties-/${tp.file.title}/${tp.file.title}`)-%>
 ---
-aliases:
-  - 
 tags:
   - faction/party
 ---

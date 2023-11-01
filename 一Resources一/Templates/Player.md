@@ -1,7 +1,5 @@
 <%await tp.file.move(`-Players-/${tp.file.title}/${tp.file.title}`)-%>
 ---
-aliases:
-  - 
 tags:
   - player
 ---

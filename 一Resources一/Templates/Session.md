@@ -10,18 +10,15 @@ aliases:
   - <%campaign.file.name%>, Session <%index%>
 tags:
   - session
+campaign: "<%campaign.file.link%>"
 index: <%index%>
 irl-date: <%tp.date.now()%>
----
-
-%%
-campaign:: <%campaign.file.link%>
-parties:: <%party.file.link%>
-player characters:: <%*
-playerCharacters.forEach(character => tR += `${character.file.link}, `)
-tR = tR.slice(0, -3)
+parties: "<%party.file.link%>"
+player characters: <%*
+playerCharacters.forEach(character => tR += `
+  - "${character.file.link}"`)
 %>
-%%
+---
 
 `$= await dv.view('一Resources一/Views/sessionHeader')`
 

@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "location": "text",
+    "fc-date": "text",
+    "player characters": "multitext"
+  }
+}

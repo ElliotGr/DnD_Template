@@ -1,7 +1,5 @@
 <%await tp.file.move(`${tp.file.title}/${tp.file.title}`) -%>
 ---
-aliases:
-  - 
 tags:
   - location/root
 ---
